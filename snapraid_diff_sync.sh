@@ -59,7 +59,7 @@ PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 ## USER DEFINED SETTINGS ##
 # address where the output of the jobs will be emailed to.
 # comment it out to disable email output
-EMAIL_ADDRESS="user@gmail.com"
+EMAIL_ADDRESS="peet@gouws.com"
 
 # Set the threshold of deleted files to stop the sync job from running.
 # NOTE that depending on how active your filesystem is being used, a low
